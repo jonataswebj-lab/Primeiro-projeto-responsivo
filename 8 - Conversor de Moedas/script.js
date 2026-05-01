@@ -93,7 +93,7 @@ function changeCurrency() {
         currencyImg.src = './won.webp';
     }
 
-
+    console.log("forçando commit");
     convertValues();
 }
 
